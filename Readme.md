@@ -26,6 +26,9 @@ https://www.data-transitionnumerique.com/anaconda-python/
 
 NB: Bien que jupyter ouvre un notebook sur votre navigateur web, il n'est PAS en ligne mais bien sur votre machine (localhost).
 
+Alternativement, un script python classique est fourni qui utilise également pandas mais pas jupyter.
+Il peut être lancé à la main comme tout autre script python.
+
 ### Fichiers
 
 Le fichier mypairing.xlsx est utilisé pour passer les estimés de l'équipe au programme.
